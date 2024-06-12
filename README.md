@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am currenctly stdying Computer Science, at National and Kapodistrian University of Athens.</p>
+<p align="left">I am currenctly stdying <b>Computer Science</b>, at <i>National and Kapodistrian University of Athens</i>.</p>
 
 ###
 
