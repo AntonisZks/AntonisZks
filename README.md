@@ -1,8 +1,8 @@
-<h2 align="left">Hi there👋! My name is Antonis and I I am a student, from Greece</h2>
+<h2 align="left">Hi there👋</h2>
 
 ###
 
-<p align="left">I am currenctly stdying <b>Computer Science</b>, at <i>National and Kapodistrian University of Athens</i>.</p>
+<p align="left">My name is Antonis and I I am a student from Greece, andI am currenctly stdying <b>Computer Science</b>, at <i>National and Kapodistrian University of Athens</i>.</p>
 
 ###
 
