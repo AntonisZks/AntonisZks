@@ -6,12 +6,14 @@
 
 ###
 
+<!--
 <h3 align="left">🔥 My Stats: </h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AntonisZks&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=4&date_format=j%20M%5B%20Y%5D" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonisZks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&custom_title=Languages%20I%20use" height="160" alt="languages graph"  />
 </div>
+-->
 
 ###
 
