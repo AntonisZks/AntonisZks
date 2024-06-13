@@ -1,27 +1,39 @@
-<h2 align="left">Hi there👋</h2>
+<h2 align="left">Hi there, I'm Antonis Zikas👋</h2>
 
 ###
 
-<p align="left">My name is Antonis and I I am a student from Greece, andI am currenctly stdying <b>Computer Science</b>, at <i>National and Kapodistrian University of Athens</i>.</p>
+<h3 align="left">🙋‍♂️ About me:</h3>
 
 ###
 
+<p align="left">
+  I am a student🎓 from Greece, and I am currenctly studying <b>Computer Science</b>👨🏻‍💻, at '<i>National and Kapodistrian University of Athens</i>'. My interests are:
+  <ul>
+    <li>Data Science 📊📈</li>
+    <li>AI & Machine Learning 🧠🤖🦾</li>
+    <li>Web Development 🌐</></li>
+    <li>Game Development 🎮👾</li>
+  </ul>
+</p>
 
+###
+
+<!--
 <h3 align="left">🔥 My Stats: </h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AntonisZks&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=4&date_format=j%20M%5B%20Y%5D" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonisZks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&custom_title=Languages%20I%20use" height="160" alt="languages graph"  />
 </div>
-
-
-###
-
-<h3 align="left">🛠 Technologies I use:</h3>
+-->
 
 ###
 
-<div align="center">
+<h3 align="left">🛠 Languages & Technologies I use:</h3>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
@@ -61,11 +73,11 @@
 
 ###
 
-<h3 align="left">My Socials:</h3>
+<h3 align="left">📱 My Socials:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/antonis_zks/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
