@@ -46,6 +46,8 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="1" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
