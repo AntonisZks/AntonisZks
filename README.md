@@ -12,6 +12,7 @@
     <li>Data Science 🗂️📊📈</li>
     <li>AI & Machine Learning 🧠🤖🦾</li>
     <li>Web Development 🌐🖥️</li>
+    <li>3D Design & Animating 🖥️</li>
     <li>Game Development 🎮👾💻</li>
   </ul>
 </p>
@@ -71,6 +72,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
 </div>
 
 ###
