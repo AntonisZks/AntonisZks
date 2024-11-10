@@ -73,6 +73,10 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="1" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
 </div>
 
