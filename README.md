@@ -36,8 +36,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+<!--   <img width="1" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  /> -->
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="1" />
@@ -49,19 +49,21 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="javascript logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+<!--   <img width="1" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  /> -->
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+<!--   <img width="1" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  /> -->
+<!--   <img width="1" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  /> -->
+<!--   <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  /> -->
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
   <img width="1" />
@@ -72,6 +74,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="1">
+  <img src="https://skillicons.dev/icons?i=apple" height="30" alt="git logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="1" />
